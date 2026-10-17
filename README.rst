@@ -1,3 +1,13 @@
+**From scanner data to organized BIDS datasets**
+
+This is a development fork of `BIDScoin <https://github.com/Donders-Institute/bidscoin>`__, the Donders Institute's toolkit for converting source neuroimaging data into the Brain Imaging Data Structure. Upstream combines configurable mappings, a graphical mapping editor, and conversion plugins, giving researchers a practical way to organize heterogeneous scanner exports for shared analysis workflows.
+
+**Merged contribution:** `PR #302 <https://github.com/Donders-Institute/bidscoin/pull/302>`__ quotes image paths passed to local SynthStrip skull-stripping commands.
+
+The `official documentation <https://bidscoin.readthedocs.io>`__ covers installation, mapping, plugins, and supported source formats. The original overview and citation guidance follow below. Consult the `branch comparison <https://github.com/Donders-Institute/bidscoin/compare/master...jdotc1:master>`__ when deciding whether to use a fork branch or an upstream release.
+
+----
+
 ========================================
 BIDScoin: Coin your imaging data to BIDS
 ========================================
